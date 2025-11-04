@@ -1,0 +1,22 @@
+/public-facing-bazaar
+ ├── index.html        # Shrine gateway, Nine Floors overview
+ ├── /shrines
+ │    ├── signal.html      # Floor 1 relics
+ │    ├── handshake.html   # Floor 2 relics
+ │    ├── overlay.html     # Floor 3 relics
+ │    ├── geomint.html     # Floor 4 relics
+ │    ├── minting.html     # Floor 5 relics
+ │    ├── contract.html    # Floor 6 relics
+ │    ├── span.html        # Floor 7 relics
+ │    ├── monitoring.html  # Floor 8 relics
+ │    └── ritual.html      # Floor 9 relics
+ ├── /assets
+ │    ├── glyphs/          # Contributor glyphs & badges
+ │    ├── relics/          # Visual relic images
+ │    └── css/             # Shrine styling
+ ├── /api
+ │    ├── relics.json      # Metadata feed (shard ID, glyph, attestation, price)
+ │    └── ledger.json      # Live ledger feed
+ └── dashboard.html    # Public-facing economic dashboard
+
+content/issues/planning-and-tracking-with-projects/creating-projects
